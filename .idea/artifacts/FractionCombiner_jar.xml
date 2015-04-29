@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FractionCombiner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FractionCombiner_jar</output-path>
+    <root id="archive" name="FractionCombiner.jar">
+      <element id="module-output" name="FractionCombiner" />
+    </root>
+  </artifact>
+</component>
